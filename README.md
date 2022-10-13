@@ -167,3 +167,7 @@ Um das bibliotecas mais utilizadas no momento é o React, uma poderosa ferrament
 
 O React é uma biblioteca de front-end JavaScript de código aberto que te ajuda a criar interfaces de usuário em páginas Web, aplicativos móveis e muito mais!
 
+Utilise este link como primeiro contato ao React:
+
+https://developer.mozilla.org/pt-BR/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started
+
